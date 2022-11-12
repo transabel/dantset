@@ -1,4 +1,5 @@
-# Transabel
+![Transabel](https://github.com/transabel/dantset/blob/main/Transabel_logo.6c08e538.png)
+
 Transabel Technology is an India based company focusing on transformative labeling technologies and developing models of artificial intelligence at reduced cost. Amongst others, one domain of application is dental X-Ray image analysis.
 
 # Dantset
