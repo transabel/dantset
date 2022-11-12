@@ -9,6 +9,6 @@ Transabel releases a dataset, namely Dantset (Hindi: दंत [dant], English: 
 
 For illustration purposes, the above figure shows an in the left panel an input Xray image, in the right-hand panel ground truth labels provided by dental Xray specialists, and the center panel contains the predictions of a Mask-RCNN deep instance segmentation model.
 
-License: [GNU lesser GPL](https://github.com/transabel/dantset/blob/main/LICENSE.txt)
+License: [GNU lesser GPL](https://github.com/transabel/dantset/blob/main/LICENSE.txt) (non-commercial)
 
 Download: [Dantset.zip](https://github.com/transabel/dantset/blob/main/dantset.zip)
